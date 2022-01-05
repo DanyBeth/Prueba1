@@ -8,7 +8,12 @@ body * {
     width: 1.5em;
 }
 
-#Quienes-somos, #Destacados {
+#Quienes-somos, #Destacados, #Contacto {
     background-color: black;
     color: white;
+}
+
+footer a, h3 {
+    color: white;
+    text-decoration: none;
 }

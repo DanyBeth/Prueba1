@@ -2,13 +2,27 @@ body * {
     padding: 0;
     border: 0;
     margin: 0;
+    font-family: "Roboto";
 }
 
 .logo {
     width: 1.5em;
 }
 
-#Quienes-somos, #Destacados {
+#Quienes-somos, #Destacados, #Contacto {
     background-color: black;
     color: white;
+}
+
+footer {
+    background-color: #2b9daa;;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+div hr {
+    color: #2b9daa;
 }
